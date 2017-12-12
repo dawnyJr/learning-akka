@@ -4,7 +4,7 @@
 		module="helloworld-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20171210152208"
+		publication="20171212204650"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
